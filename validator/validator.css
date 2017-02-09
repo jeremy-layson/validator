@@ -1,0 +1,25 @@
+.vl-container{
+    border: 2px solid rgba(180,14,22, 0.5);
+    background-color: rgba(180,14,22, 0.1);
+    padding: 2px;
+    margin-bottom:2px;
+    border-radius: 5px;
+}
+.vl-container p{
+    padding-left: 5px;
+    margin-bottom:2px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.vl-close-container{
+    float:right;
+    background-color: rgba(180,14,22, 0.3);
+    margin-right:3px;
+    border-radius:5px;
+    padding: 0px 3px 0px 3px;
+}
+
+.vl-close-button{
+    font-size: 1.5em;
+}
